@@ -1,7 +1,3 @@
 # Created by .ignore support plugin (hsz.mobi)
-/.idea/
+.idea/*
 .gitignore
-.idea/drone-ecr-puller.iml
-.idea/inspectionProfiles/
-.idea/modules.xml
-.idea/workspace.xml
